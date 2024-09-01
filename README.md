@@ -5,8 +5,9 @@
 The Dental Appointment Booking System is a web application that allows users to book dental appointments, view existing appointments, and interact with an assistant to facilitate the booking process. The application uses Flask for the backend and Streamlit for the frontend.
 
 ### <img src="preview\preview.png" width="1000"/>
-### <img src="preview\demo.mp4" width="1000"/>
-
+### <video width="1000" controls>
+  <source src="preview\demo.mp4" type="video/mp4">
+    </video>
 ## Features
 
 - **Book Appointments**: Users can book dental appointments through a conversational interface.
@@ -25,8 +26,8 @@ The Dental Appointment Booking System is a web application that allows users to 
 ### Clone the Repository
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/jagdish31502/dentist-appointment-booking.git
+cd dentist-appointment-booking
 ```
 
 ### Create a Virtual Environment
