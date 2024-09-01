@@ -4,17 +4,8 @@
 
 The Dental Appointment Booking System is a web application that allows users to book dental appointments, view existing appointments, and interact with an assistant to facilitate the booking process. The application uses Flask for the backend and Streamlit for the frontend.
 
-## Image Example
-
-Here is an example of an image:
-
-![Demo Screenshot](preview\preview.png)
-
-## Video Example
-
-Here is an example of a video:
-
-<iframe width="560" height="315" src="preview\demo.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### <img src="preview\preview.png" width="1000"/>
+### <img src="preview\demo.mp4" width="1000"/>
 
 ## Features
 
